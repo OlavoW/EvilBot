@@ -1,7 +1,7 @@
 {
     "DEFAULTS": {
-        "TOKEN": "Token bot aqui",
+        "TOKEN": "Token bot here",
         "AUTHORS": [],
-        "ACTIVITY_TEXT": "O vazio esta entre nos"
+        "ACTIVITY_TEXT": "status bot = now playing"
     }
 }
