@@ -1,0 +1,2 @@
+# EvilBot
+EvilBot Discord Bot
